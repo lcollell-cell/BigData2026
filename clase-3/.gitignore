@@ -62,7 +62,7 @@ infra/*.tfplan
 .terraform.lock.hcl
 *.tfplan
 main.tf
-.terraform/
+.terraform/*
 terraform.tfstate
 terraform.tfstate.backup
 *.tfplan
