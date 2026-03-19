@@ -66,3 +66,4 @@ main.tf
 terraform.tfstate
 terraform.tfstate.backup
 *.tfplan
+databricks_token.txt
